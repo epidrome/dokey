@@ -6,7 +6,7 @@
 * unix-based system (e.g., macos, linux, bsd, etc), might work on windows with add-ons
 * [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 * [command line](https://en.wikipedia.org/wiki/Command-line_interface)
-* [asciinema](https://asciinema.org/) to record and share your sessions
+* [asciinema](https://asciinema.org/) to record and share your sessions as described in the deliverables
 
 # assignments and deliverables
 | assignments | deliverables | references |
