@@ -20,4 +20,5 @@
 | organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` |
 | read and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email | [mutt](http://www.mutt.org/) |
+| convert between different text formats | use vim to write your cv in markdown and convert it to docx, html | [pandoc](https://pandoc.org/) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
