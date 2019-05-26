@@ -13,3 +13,6 @@
 | -- | -- | -- |
 | set-up the main dependencies and demonstrate your base system | change your command prompt, list your local files, and display system information (hardware+software) | [neofetch](https://github.com/dylanaraps/neofetch) |
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) |
+| search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
+| organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
+| use the terminal as an IDE | | |
