@@ -11,8 +11,9 @@
 # assignments and deliverables
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up the main dependencies and demonstrate your base system | change your command prompt, list your local files, and display system information (hardware+software) | [neofetch](https://github.com/dylanaraps/neofetch) |
-| get familiar with basic commands and add niceties | browse and view files on your system | [ranger](https://ranger.github.io/) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, and display system information (hardware+software) | [neofetch](https://github.com/dylanaraps/neofetch) |
+| use git to share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
+| get familiar with basic commands and add niceties | browse and view files on your system | `man` `less` `nano` [ranger](https://ranger.github.io/) |
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
