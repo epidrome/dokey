@@ -1,5 +1,6 @@
 # dokey
-real men do it with the keyboard (old unix admin saying)
+> real men do it with the keyboard 
+-old unix admin saying
 
 # dependencies
 * unix-based system (e.g., macos, linux, bsd, etc), might work on windows with add-ons
@@ -8,7 +9,7 @@ real men do it with the keyboard (old unix admin saying)
 * [asciinema](https://asciinema.org/) to record and share your sessions
 
 # assignments and deliverables
-| assignments | deliverables |
-| -- | -- |
-| set-up the main dependencies and demonstrate your base system | customise your command prompt and listing your local files |
- 
+| assignments | deliverables | references |
+| -- | -- | -- |
+| set-up the main dependencies and demonstrate your base system | change your command prompt, list your local files, and display system information (hardware+software) | [neofetch](https://github.com/dylanaraps/neofetch) |
+| try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) |
