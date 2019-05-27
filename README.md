@@ -11,10 +11,11 @@
 # assignments and deliverables
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, and display system information (hardware+software) | [neofetch](https://github.com/dylanaraps/neofetch) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | `man` `less` [neofetch](https://github.com/dylanaraps/neofetch) |
 | use git to share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
-| get familiar with basic commands and add niceties | browse and view files on your system | `man` `less` `nano` [ranger](https://ranger.github.io/) |
+| get familiar with basic commands and add niceties | browse and view files on your system | `nano` [ranger](https://ranger.github.io/) |
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) |
+| browse popular web sites through the terminal | configure the browser environment to you terminal browser | [hacker news](https://github.com/donnemartin/haxor-news) [reddit](https://github.com/michael-lazar/rtv) |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
 | organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
