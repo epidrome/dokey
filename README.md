@@ -3,7 +3,7 @@
 -old unix admin saying
 
 # dependencies
-* unix-based system (e.g., macos, linux, bsd, etc), might work on windows with add-ons
+* unix-based system (e.g., macos, linux, bsd, etc), might work on windows [with add-ons](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux)
 * [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 * [command line](https://en.wikipedia.org/wiki/Command-line_interface)
 * [python](https://docs.python-guide.org/starting/installation/)
