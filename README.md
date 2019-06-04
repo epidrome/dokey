@@ -26,3 +26,6 @@
 | convert between different text formats | use vim to write your cv in markdown and convert it to docx, html | [pandoc](https://pandoc.org/) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
+
+# further reading
+[inconsolation blog](https://inconsolation.wordpress.com/)
