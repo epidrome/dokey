@@ -29,3 +29,4 @@
 
 # further reading
 [inconsolation blog](https://inconsolation.wordpress.com/)
+[awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
