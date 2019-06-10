@@ -29,4 +29,7 @@
 
 # further reading
 [inconsolation blog](https://inconsolation.wordpress.com/)
+
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
+
+[graphical user interfaces are good for 2 years old](https://www.youtube.com/watch?v=SdL6dzWvm5M)
