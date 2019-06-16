@@ -11,7 +11,8 @@
 
 # assignments and deliverables
 | assignments | deliverables | references |
-| -- | **user land** | -- |
+| -- | -- | -- |
+|  | **user land** |  |
 | set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) |
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` |
@@ -26,7 +27,7 @@
 | search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
 | organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email | [mutt](http://www.mutt.org/) |
-| -- | **dev ops** | -- |
+|  | **dev ops** |  |
 | convert between different text formats | use vim to write your cv in markdown and convert it to docx, html | [pandoc](https://pandoc.org/) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
