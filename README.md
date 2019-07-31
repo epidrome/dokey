@@ -19,27 +19,31 @@
 | plan your time with a calendar || []() |
 | organize your notes with a wiki || []() |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
-| add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [timeshift]() |
-| build a custom desktop enviroment | customize the menu, bar, notifications, windows and use a GIF to demonstrate with an mp3 player | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [mpd](https://github.com/MusicPlayerDaemon/MPD) [awesome](https://github.com/awesomeWM/awesome) |
+| add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) |
+| build a custom desktop enviroment | customize the wallpaper, menu, bar, notifications, windows and use a GIF | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [awesome](https://github.com/awesomeWM/awesome) |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | search the local file system | search for your shell configuration file and open it for editing | [fzf](https://github.com/junegunn/fzf) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 |  | **work online** |  |
-| connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` |
-| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | []() |
+| connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` [http-prompt](https://github.com/eliangcs/http-prompt) |
+| check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | [wttr](https://github.com/chubin/wttr.in) |
 | use git to share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
-| synchronize your files online and along devices || [gcalcli](https://github.com/insanum/gcalcli)|
+| share your files online and along devices || [gcalcli](https://github.com/insanum/gcalcli)|
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) [w3m](http://w3m.sourceforge.net/) [links](http://links.twibright.com/) |
 | manage your bookmarks | add, search, and visit a bookmark to your favorite site | [buku](https://github.com/jarun/Buku) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
 | browse popular web sites through the terminal | configure the browser environment to you terminal browser | [hacker news](https://github.com/donnemartin/haxor-news) [reddit](https://github.com/michael-lazar/rtv) `BROWSER` |
+| upload files || [transfer](https://github.com/dutchcoders/transfer.sh/) |
 | read the news with an RSS reader || []() |
 | use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
-| back your home | | `rsync` |
+| back your home online | | `rsync` |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
+| connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine ||
 |  | **rich content** |  |
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
-| watch video | youtube video streaming ||
+| visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
+| manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
+| watch video | youtube video streaming | |
 | download a torrent || [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
 | convert between different text formats | use vim to write your cv in markdown and convert it to docx, html | [pandoc](https://pandoc.org/) |
@@ -51,6 +55,7 @@
 | set-up cloud services | ssh to a remote machine and demonstrate your cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | set-up continuous integration |||
 | create your docker image || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) |
+| configure headless services |||
 
 # references
 
