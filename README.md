@@ -59,6 +59,8 @@ the above references are only indicative and you are strongly encouraged to sear
 
 [graphical user interfaces are good for 2 years old](https://www.youtube.com/watch?v=SdL6dzWvm5M)
 
+[cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
+
 # grading
 
 Passing grade is awarded as soon as you post to asciinema a demo of basic usage with default options. The grade improves for each extra configuration that you demonstrate and becomes excellent as soon as you find a similar tool or for significantly novel uses.
