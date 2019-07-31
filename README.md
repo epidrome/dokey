@@ -27,7 +27,11 @@
 | search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition and youtube video streaming | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
-| organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
+| download a torrent || [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
+| organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
+| edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
+| create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
+| create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
 |  | **dev ops** |  |
 | convert between different text formats | use vim to write your cv in markdown and convert it to docx, html | [pandoc](https://pandoc.org/) |
@@ -39,7 +43,10 @@
 
 Passing grade is awarded as soon as you post to asciinema a demo of basic usage with default options. The grade improves for each extra configuration that you demonstrate and becomes excellent as soon as you find a similar tool or for significantly novel uses.
 
-# further reading
+# references
+
+the above references are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal applications, such as:
+
 [inconsolation blog](https://inconsolation.wordpress.com/)
 
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
