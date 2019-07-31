@@ -13,13 +13,13 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 |  | **user land** |  |
-| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) [howdoi](https://github.com/gleitz/howdoi) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) |
-| become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) |
+| become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [task](https://taskwarrior.org/docs/start.html)|
 | plan your time with a calendar || []() |
 | organize your notes with a wiki || []() |
-| track your time with a simple journal || []() |
-| add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) []() |
+| track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
+| add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [timeshift]() |
 | build a custom desktop enviroment | customize the menu, bar, notifications, windows and use a GIF to demonstrate with an mp3 player | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [mpd](https://github.com/MusicPlayerDaemon/MPD) [awesome](https://github.com/awesomeWM/awesome) |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | search the local file system | search for your shell configuration file and open it for editing | [fzf](https://github.com/junegunn/fzf) |
@@ -28,6 +28,7 @@
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` |
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | []() |
 | use git to share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
+| synchronize your files online and along devices || [gcalcli](https://github.com/insanum/gcalcli)|
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) [w3m](http://w3m.sourceforge.net/) [links](http://links.twibright.com/) |
 | manage your bookmarks | add, search, and visit a bookmark to your favorite site | [buku](https://github.com/jarun/Buku) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
@@ -49,7 +50,7 @@
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | set-up cloud services | ssh to a remote machine and demonstrate your cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | set-up continuous integration |||
-| create your docker image |||
+| create your docker image || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) |
 
 # references
 
