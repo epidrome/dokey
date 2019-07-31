@@ -33,6 +33,10 @@
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | set-up cloud services | ssh to a remote machine and demonstrate your cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 
+# grading
+
+Passing grade is awarded as soon as you post to asciinema a demo of basic usage with default options. The grade improves for each extra configuration that you demonstrate and becomes excellent as soon as you find a similar tool or for significantly novel uses.
+
 # further reading
 [inconsolation blog](https://inconsolation.wordpress.com/)
 
