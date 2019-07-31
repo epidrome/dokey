@@ -26,6 +26,7 @@
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | search the local file system | search for your shell configuration file | [fzf](https://github.com/junegunn/fzf) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition and youtube video streaming | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
+| download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
 | organise the terminal window into multiple areas | use one window to search for local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email | [mutt](http://www.mutt.org/) |
 |  | **dev ops** |  |
