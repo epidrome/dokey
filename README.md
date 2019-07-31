@@ -32,6 +32,7 @@
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) [w3m](http://w3m.sourceforge.net/) [links](http://links.twibright.com/) |
 | manage your bookmarks | add, search, and visit a bookmark to your favorite site | [buku](https://github.com/jarun/Buku) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
+| twitter | display your personal stream and that of your favorite person | [twitter](https://github.com/orakaro/rainbowstream) |
 | browse popular web sites through the terminal | configure the browser environment to you terminal browser | [hacker news](https://github.com/donnemartin/haxor-news) [reddit](https://github.com/michael-lazar/rtv) `BROWSER` |
 | upload files || [transfer](https://github.com/dutchcoders/transfer.sh/) |
 | read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
