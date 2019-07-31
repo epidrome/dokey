@@ -43,10 +43,6 @@
 | set-up continuous integration |||
 | create your docker image |||
 
-# grading
-
-Passing grade is awarded as soon as you post to asciinema a demo of basic usage with default options. The grade improves for each extra configuration that you demonstrate and becomes excellent as soon as you find a similar tool or for significantly novel uses.
-
 # references
 
 the above references are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal applications, such as:
@@ -56,3 +52,7 @@ the above references are only indicative and you are strongly encouraged to sear
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
 
 [graphical user interfaces are good for 2 years old](https://www.youtube.com/watch?v=SdL6dzWvm5M)
+
+# grading
+
+Passing grade is awarded as soon as you post to asciinema a demo of basic usage with default options. The grade improves for each extra configuration that you demonstrate and becomes excellent as soon as you find a similar tool or for significantly novel uses.
