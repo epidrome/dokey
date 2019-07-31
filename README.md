@@ -66,6 +66,8 @@ the above references are only indicative and you are strongly encouraged to sear
 
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
 
+[awesome shell](https://github.com/alebcay/awesome-shell)
+
 [terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 
 [graphical user interfaces are good for 2 years old](https://www.youtube.com/watch?v=SdL6dzWvm5M)
