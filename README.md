@@ -15,7 +15,7 @@
 |  | **user land** |  |
 | set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
-| become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [task](https://taskwarrior.org/docs/start.html)|
+| become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | plan your time with a calendar | add, edit, search for an appointment | [calcurse](https://calcurse.org/) |
 | organize your notes with a wiki || []() |
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
@@ -30,8 +30,9 @@
 |  | **work online** |  |
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` [http-prompt](https://github.com/eliangcs/http-prompt) |
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | [wttr](https://github.com/chubin/wttr.in) |
-| use git to share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
-| share your files online and along devices || [gcalcli](https://github.com/insanum/gcalcli)|
+| fetch information | read the business news | [awesome-console-services](https://github.com/chubin/awesome-console-services) |
+| share your dot files | configure git, edit and push your dot files | [git](https://en.wikipedia.org/wiki/Git) |
+| share your files online and along devices | share your calendar | [gcalcli](https://github.com/insanum/gcalcli)|
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) [w3m](http://w3m.sourceforge.net/) [links](http://links.twibright.com/) |
 | manage your bookmarks | add, search, and visit a bookmark to your favorite site | [buku](https://github.com/jarun/Buku) |
 | search the web from the terminal |create aliases for common searches such as dictionary definition | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
@@ -53,10 +54,11 @@
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
-| visualize a large text file with a word cloud | use a book from project gutenberg and mask the word cloud with an image that fits the theme of the book | [word_cloud](http://amueller.github.io/word_cloud/auto_examples/index.html)|
+| visualize a large text file with a word cloud | use a book from project gutenberg or from the daily news and mask the word cloud with an image that fits the theme of the book | [word_cloud](http://amueller.github.io/word_cloud/auto_examples/index.html) [newspaper](https://github.com/codelucas/newspaper) [gutenberg](https://www.gutenberg.org/) |
 | visualize progress or status | improve your favorite python cli app with a progress bar | [tqdm](https://github.com/tqdm/tqdm) |
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
 |  | **dev ops** |  |
+| try different terminals and shells | repeat some of the above steps with a different terminal-shell and pick the combination that fits your workflow | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | set-up cloud services | ssh to a remote machine and demonstrate your cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
