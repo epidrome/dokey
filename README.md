@@ -10,9 +10,17 @@
 * [asciinema](https://asciinema.org/) to record and share your sessions as described in the deliverables
 
 # assignments and deliverables
+
+- [user land](#user land)
+- [work online](#work online)
+- [rich content](#rich content)
+- [dev ops](#dev ops)
+
+
+## user land
+
 | assignments | deliverables | references |
 | -- | -- | -- |
-|  | **user land** |  |
 | set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
@@ -27,7 +35,12 @@
 | search the local file system | search for your shell configuration file and open it for editing and search for the contents of a text file | [fzf](https://github.com/junegunn/fzf) [percol](https://github.com/mooz/percol) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
-|  | **work online** |  |
+
+
+## work online
+
+| assignments | deliverables | references |
+| -- | -- | -- |
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` [http-prompt](https://github.com/eliangcs/http-prompt) |
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | [wttr](https://github.com/chubin/wttr.in) |
 | fetch information | read the business news | [awesome-console-services](https://github.com/chubin/awesome-console-services) |
@@ -44,7 +57,12 @@
 | back-up your home online | | `rsync` [rclone](https://github.com/rclone/rclone) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
 | connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine ||
-|  | **rich content** |  |
+
+
+## rich content
+
+| assignments | deliverables | references |
+| -- | -- | -- |
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
@@ -58,7 +76,12 @@
 | visualize a large text file with a word cloud | use a book from project gutenberg or from the daily news and mask the word cloud with an image that fits the theme of the book | [word_cloud](http://amueller.github.io/word_cloud/auto_examples/index.html) [newspaper](https://github.com/codelucas/newspaper) [gutenberg](https://www.gutenberg.org/) |
 | visualize progress or status | improve your favorite python cli app with a progress bar | [tqdm](https://github.com/tqdm/tqdm) |
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
-|  | **dev ops** |  |
+
+
+## dev ops
+
+| assignments | deliverables | references |
+| -- | -- | -- |
 | try different terminals and shells | repeat some of the above steps with a different terminal-shell and pick the combination that fits your workflow | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
