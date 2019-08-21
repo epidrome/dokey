@@ -86,6 +86,8 @@ the above references are only indicative and you are strongly encouraged to sear
 
 [cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
 
+[unix toolbox](http://cb.vu/unixtoolbox.xhtml)
+
 # grading
 
 Passing grade is awarded as soon as you include in your project report a link to a post to asciinema that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses.
