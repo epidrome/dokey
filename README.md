@@ -26,6 +26,7 @@
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | plan your time with a calendar | add, edit, search for an appointment | [calcurse](https://calcurse.org/) |
 | organize your notes with a wiki || []() |
+| organize your notes with emacs | use org mode | `emacs` |
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
 | add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) [pywall](https://github.com/dylanaraps/pywal) |
@@ -56,7 +57,8 @@
 | use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
 | back-up your home online | | `rsync` [rclone](https://github.com/rclone/rclone) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
-| connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine ||
+| connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine | `ssh` [mosh](https://github.com/mobile-shell/mosh)|
+| send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
 
 
 ## rich content
@@ -66,7 +68,6 @@
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
-| organize and edit your files with emacs | read/edit linked files and send emails with emacs | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
 | watch video | youtube video streaming | |
 | download a torrent || [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
