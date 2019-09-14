@@ -11,13 +11,13 @@
 
 # assignments and deliverables
 
-- [user land](#user land)
+- [hci](#hci): user land
 - [work online](#work online)
 - [rich content](#rich content)
 - [dev ops](#dev ops)
 
 
-## user land
+## hci
 
 | assignments | deliverables | references |
 | -- | -- | -- |
