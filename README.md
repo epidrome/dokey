@@ -12,9 +12,9 @@
 # assignments and deliverables
 
 - [hci](#hci): user land
-- [work online](#work online)
-- [rich content](#rich content)
-- [dev ops](#dev ops)
+- [cscw](#cscw): work online
+- [multimedia](#multimedia): rich content
+- [software](#software): dev ops
 
 
 ## hci
@@ -38,7 +38,7 @@
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
 
 
-## work online
+## cscw
 
 | assignments | deliverables | references |
 | -- | -- | -- |
@@ -61,7 +61,7 @@
 | send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
 
 
-## rich content
+## multimedia
 
 | assignments | deliverables | references |
 | -- | -- | -- |
@@ -79,7 +79,7 @@
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
 
 
-## dev ops
+## software
 
 | assignments | deliverables | references |
 | -- | -- | -- |
