@@ -40,8 +40,8 @@
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | plan your time with a calendar | add, edit, search for an appointment | [calcurse](https://calcurse.org/) |
-| organize your notes with a wiki || []() |
 | organize your notes with emacs | use org mode | `emacs` |
+| organize your notes with a wiki | use org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) |
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
 | add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) [pywall](https://github.com/dylanaraps/pywal) |
