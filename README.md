@@ -36,18 +36,18 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up the main dependencies and demonstrate your base system | change your command prompt, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | plan your time with a calendar | add, edit, search for an appointment | [calcurse](https://calcurse.org/) |
+| text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | organize your notes with emacs | use org mode | `emacs` |
-| organize your notes with a wiki | use org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) |
+| organize your notes with a wiki | use vi or emacs org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) [viki](https://github.com/tomtom/vikibase_vim) |
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
 | add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) [pywall](https://github.com/dylanaraps/pywal) |
 | build a custom desktop enviroment | customize the wallpaper, menu, bar, notifications, windows, screensaver and demonstrate them with a GIF | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [awesome](https://github.com/awesomeWM/awesome) [pipes](https://github.com/pipeseroni/pipes.sh) |
-| text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
-| convert between different text formats | use vim to write your cv in markdown, track multiple versions with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) |
+| convert between different text formats | use vim (or emacs) to write your cv in markdown, track multiple versions with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) |
 | search the local file system | search for your shell configuration file and open it for editing and search for the contents of a text file | [fzf](https://github.com/junegunn/fzf) [percol](https://github.com/mooz/percol) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
