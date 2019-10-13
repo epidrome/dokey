@@ -83,6 +83,7 @@
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
+| read an ebook | read, search, bookmark, and annotate your favorite ebook | [](https://github.com/wustho/epr) |
 | watch video | youtube video streaming | |
 | download a torrent || [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
