@@ -130,4 +130,4 @@ the above references are only indicative and you are strongly encouraged to sear
 
 # grading
 
-Passing grade is awarded as soon as you include in your project report a link to a post to asciinema that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses.
+Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses.
