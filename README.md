@@ -13,7 +13,7 @@
 | 5 | 14 Δεκ. | 
 | 6 | 12 Ιαν. |
 
-**Οι παραπάνω προθεσμίες είναι για τα commit στην αναφορά σας, η οποία [αποστέλεται σε διαφορετικές ημερομηνίες στο κεντρικό](https://courses-ionio.github.io/help/deadlines/).**
+**Οι παραπάνω προθεσμίες είναι για τα commit στην αναφορά σας, η οποία [αποστέλεται σε διαφορετικές ημερομηνίες με pull-request στο κεντρικό](https://courses-ionio.github.io/help/deadlines/).**
 
 # dokey
 > real men do it with the keyboard 
