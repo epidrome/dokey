@@ -41,7 +41,7 @@
 | set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
-| plan your time with a calendar | add, edit, search for an appointment | [calcurse](https://calcurse.org/) |
+| plan your time with a calendar | add, edit, search for an appointment | |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | organize your notes with emacs | use org mode | `emacs` |
 | organize your notes with a wiki | use vi or emacs org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) [viki](https://github.com/tomtom/vikibase_vim) |
@@ -76,7 +76,7 @@
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
 | connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine | `ssh` [mosh](https://github.com/mobile-shell/mosh)|
 | send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
-
+| pair programming | edit a text file together with a friend | [tmate](https://github.com/tmate-io/tmate) |
 
 ## multimedia
 
@@ -132,4 +132,4 @@ the above references are only indicative and you are strongly encouraged to sear
 
 # grading
 
-Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses.
+Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses. [Ncurses](https://en.wikipedia.org/wiki/Ncurses) is an interesting tool but it is not purely command line, so you might employ it at your own risk.
