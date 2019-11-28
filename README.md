@@ -83,12 +83,13 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
-| visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
-| manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
-| read an ebook | read, search, bookmark, and annotate your favorite ebook | [](https://github.com/wustho/epr) |
-| watch video | youtube video streaming | |
-| download a torrent || [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
+| read an ebook | read, search, bookmark, and annotate your favorite ebook | [](https://github.com/wustho/epr) |
+| manage torrent files | search and download a torrent | [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
+| manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
+| visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
+| batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
+| watch video | youtube video streaming with asciiart | |
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
