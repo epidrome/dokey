@@ -104,7 +104,8 @@
 | try different terminals and shells | repeat some of the above steps with a different terminal-shell and pick the combination that fits your workflow | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
-| set-up cloud services | ssh to a remote machine and demonstrate your cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
+| set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
+| programmable voice | deploy an application that forwards a call depending on a white and black list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | choose your stack | set-up a set of cli tools with minimal dependencies | [howdoi](https://github.com/gleitz/howdoi) |
 | set-up continuous integration |||
 | create a docker image for your stack || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
