@@ -101,15 +101,19 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| try different terminals and shells | repeat some of the above steps with a different terminal-shell and pick the combination that fits your workflow | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
+| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
+| configure a custom window manager | try different wm and configure one to fit your needs| [sowm](https://github.com/dylanaraps/sowm) |
 | use the terminal as an IDE | edit your cv in vim and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
+| create your own static site and blog generator | the generator should consider posts, pages, and templates | [blag](https://github.com/dylanaraps/blag) |
+| try different operating systems in the emulator | load at least two operating systems and create a virtual local network | [qemu](https://www.qemu.org/) |
 | set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | programmable voice | deploy an application that forwards a call depending on a white and black list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | choose your stack | set-up a set of cli tools with minimal dependencies | [howdoi](https://github.com/gleitz/howdoi) |
 | set-up continuous integration |||
 | create a docker image for your stack || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | configure headless services |||
+| create a minimal linux system for a particular purpose | your custom linux system should boot to a terminal and include a minimal set of tools that you really need | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) |
 
 # references
 
