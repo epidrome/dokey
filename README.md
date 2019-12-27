@@ -114,7 +114,7 @@
 | set-up continuous integration |||
 | create a docker image for your stack || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | configure headless services |||
-| create a minimal linux system for a particular purpose | your custom linux system should boot to a terminal and include a minimal set of tools that you really need | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) |
+| create a minimal linux system for a particular purpose | your custom linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) |
 
 # references
 
