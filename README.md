@@ -41,7 +41,6 @@
 | set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
-| plan your time with a calendar | add, edit, search for an appointment | |
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | organize your notes with emacs | use org mode | `emacs` |
 | organize your notes with a wiki | use vi or emacs org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) [viki](https://github.com/tomtom/vikibase_vim) |
@@ -89,7 +88,6 @@
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
-| watch video | youtube video streaming with asciiart | |
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
