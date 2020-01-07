@@ -101,17 +101,17 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) |
+| set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `travis` `netlify` |
+| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
 | configure a custom window manager | try different wm and configure one to fit your needs| [sowm](https://github.com/dylanaraps/sowm) [dwm](https://dwm.suckless.org/) |
 | use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create your own static site and blog generator | the generator should consider posts, pages, and templates | [blag](https://github.com/dylanaraps/blag) |
-| try different operating systems in the emulator | load at least two operating systems and create a virtual local network | [qemu](https://www.qemu.org/) |
+| try different operating systems in the emulator | load at least two operating systems and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 | set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
-| programmable voice | deploy an application that forwards a call depending on a white and black list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
-| choose your stack | set-up a set of cli tools with minimal dependencies | [howdoi](https://github.com/gleitz/howdoi) |
-| set-up continuous integration |||
+| programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
+| choose your stack | set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [howdoi](https://github.com/gleitz/howdoi) |
 | create a docker image for your stack || [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | configure headless services |||
 | create a minimal linux system for a particular purpose | your custom linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) |
