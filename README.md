@@ -104,6 +104,7 @@
 | create your own static site and blog generator | the generator should consider posts, pages, and templates | [blag](https://github.com/dylanaraps/blag) |
 | try different operating systems in the emulator | load at least two operating systems and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 | set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
+| create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | choose your stack | set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [howdoi](https://github.com/gleitz/howdoi) |
 | create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
