@@ -114,6 +114,8 @@
 
 the above references are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal and command-line applications, such as:
 
+[You Dont Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
+
 [the art of command-line](https://github.com/jlevy/the-art-of-command-line)
 
 [inconsolation blog](https://inconsolation.wordpress.com/)
