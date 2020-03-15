@@ -1,6 +1,10 @@
 # Οδηγίες
 
-Το κάθε μάθημα έχει διαφορετικό σετ ασκήσεων τις οποίες θα βρείτε κάτω από τον αντίστοιχο τίτλο. Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη.  Αν γίνουν περισσότερες τότε θα κρατήσουμε τους καλύτερους βαθμούς, αρκεί να έχουν έχουν γίνει commit τα λινκ μέσα στην αναφορά σας στις παρακάτω προθεσμίες. **Για να βαθμολογηθεί μια άσκηση θα πρέπει [το command prompt να είναι ο ΑΜ σας](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux).** Για περισσότερες οδηγίες δείτε την ενότητα της βαθμολόγησης παρακάτω.
+* Το κάθε μάθημα έχει διαφορετικό σετ ασκήσεων τις οποίες θα βρείτε κάτω από τον αντίστοιχο τίτλο.
+* Μερικές ασκήσεις σε προχωρημένα μαθήματα (MM, SW) βασίζονται σε ασκήσεις από τα βασικά μαθήματα (HCI, CSCW).
+* Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη. Αν γίνουν περισσότερες τότε θα κρατήσουμε τους καλύτερους βαθμούς, αρκεί να έχουν έχουν γίνει commit τα λινκ μέσα στην αναφορά σας στις παρακάτω προθεσμίες.
+* **Για να βαθμολογηθεί μια άσκηση θα πρέπει [το command prompt να είναι ο ΑΜ σας](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux).** 
+* Για περισσότερες οδηγίες δείτε την ενότητα της βαθμολόγησης παρακάτω.
 
 # Προθεσμίες
 
@@ -136,4 +140,6 @@ the above references are only indicative and you are strongly encouraged to sear
 
 # grading
 
-Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. The grade improves for each extra configuration added and becomes excellent as soon as you find a similar tool or for significantly novel uses. [Ncurses](https://en.wikipedia.org/wiki/Ncurses) is an interesting tool but it is not purely command line, so you might employ it at your own risk.
+* Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. 
+* The grade improves for each extra configuration (read the man page!) added and becomes excellent as soon as you find a similar tool or for significantly novel uses (e.g., [pipelining](https://youtu.be/tc4ROCJYbm0?t=296), shell scripting).
+* [Ncurses](https://en.wikipedia.org/wiki/Ncurses) is an interesting tool but it is not purely command line, so you might employ it at your own risk.
