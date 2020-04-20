@@ -60,7 +60,7 @@
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` [http-prompt](https://github.com/eliangcs/http-prompt) |
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | [wttr](https://github.com/chubin/wttr.in) |
 | fetch information | read the business news | [awesome-console-services](https://github.com/chubin/awesome-console-services) |
-| manage and share your dot files | configure git, edit and push your dot files | [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) |
+| manage and share your dot files | configure git, edit and push your dot files | [github guide](https://dotfiles.github.io) [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) |
 | share your files online and along devices | share your calendar | [gcalcli](https://github.com/insanum/gcalcli)|
 | try different text-based web browsers and get used to the keyboard shortcuts for one | use your favorite text-based browser to retrieve information from the web | [lynx](https://lynx.browser.org/) [w3m](http://w3m.sourceforge.net/) [links](http://links.twibright.com/) |
 | manage your bookmarks | add, search, and visit a bookmark to your favorite site | [buku](https://github.com/jarun/Buku) |
