@@ -2,7 +2,10 @@
 
 * Το κάθε μάθημα έχει διαφορετικό σετ ασκήσεων τις οποίες θα βρείτε κάτω από τον αντίστοιχο τίτλο.
 * Μερικές ασκήσεις σε προχωρημένα μαθήματα (MM, SW) βασίζονται σε ασκήσεις από τα βασικά μαθήματα (HCI, CSCW).
-* Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη. Αν γίνουν περισσότερες τότε θα κρατήσουμε τους καλύτερους βαθμούς, αρκεί να έχουν έχουν γίνει commit τα λινκ μέσα στην αναφορά σας στις παρακάτω προθεσμίες.
+* Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη. * Αν γίνουν περισσότερες από όσες ορίζει ένα μάθημα τότε θα κρατήσουμε τους καλύτερους βαθμούς.
+* Οι μισές ασκήσεις θα πρέπει να γίνουν μέχρι την ενδιάμεση προθεσμία.
+* Στην ενδιάμεση προθεσμία αρκεί να έχουν γίνει commit τα λινκ μέσα στην αναφορά σας.
+* Μόνο για την τελική προθεσμία-αναφορά θα πρέπει να στείλειτε αίτημα ενσωμάτωσης στο αντίστοιχο αποθετήριο του μαθήματος.
 * **Για να βαθμολογηθεί μια άσκηση θα πρέπει [το command prompt να είναι ο ΑΜ σας](https://unix.stackexchange.com/questions/35777/how-to-change-the-prompt-in-linux).** 
 * Για περισσότερες οδηγίες δείτε την ενότητα της βαθμολόγησης παρακάτω.
 
@@ -125,6 +128,8 @@ the above references are only indicative and you are strongly encouraged to sear
 
 [the art of command-line](https://github.com/jlevy/the-art-of-command-line)
 
+[terminal blog](https://blog.balthazar-rouberol.com/tag/terminal)
+
 [inconsolation blog](https://inconsolation.wordpress.com/)
 
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
@@ -138,6 +143,7 @@ the above references are only indicative and you are strongly encouraged to sear
 [cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
 
 [unix toolbox](http://cb.vu/unixtoolbox.xhtml)
+
 
 # grading
 
