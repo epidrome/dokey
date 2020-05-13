@@ -86,13 +86,14 @@
 | -- | -- | -- |
 | download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
-| read an ebook | read, search, bookmark, and annotate your favorite ebook | [](https://github.com/wustho/epr) |
+| read an ebook | read, search, bookmark, and annotate your favorite ebook | [epr](https://github.com/wustho/epr) |
 | manage torrent files | search and download a torrent | [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
+| analyse web log files | create reports similar to google analytics | [goaccess](https://github.com/allinurl/goaccess) |
 | use color to improve your cli tools | Print colorized text from a shell script, in order to make it more beautiful-usable | [pastel](https://github.com/sharkdp/pastel) |
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
