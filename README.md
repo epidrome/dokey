@@ -2,7 +2,8 @@
 
 * Το κάθε μάθημα έχει διαφορετικό σετ ασκήσεων τις οποίες θα βρείτε κάτω από τον αντίστοιχο τίτλο.
 * Μερικές ασκήσεις σε προχωρημένα μαθήματα (MM, SW) βασίζονται σε ασκήσεις από τα βασικά μαθήματα (HCI, CSCW).
-* Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη. * Αν γίνουν περισσότερες από όσες ορίζει ένα μάθημα τότε θα κρατήσουμε τους καλύτερους βαθμούς.
+* Το κάθε σετ έχει περισσότερες από 10 ασκήσεις οι οποίες εμφανίζονται με σειρά δυσκολίας από την πιο εύκολη στην πιο δύσκολη.
+* Αν γίνουν περισσότερες από όσες ορίζει ένα μάθημα τότε θα κρατήσουμε τους καλύτερους βαθμούς.
 * Οι μισές ασκήσεις θα πρέπει να γίνουν μέχρι την ενδιάμεση προθεσμία.
 * Για να κατοχυρώσετε τις προθεσμίες αρκεί να έχουν γίνει commit τα λινκ μέσα στην αναφορά σας.
 * Μόνο για την τελική αναφορά θα πρέπει να στείλειτε αίτημα ενσωμάτωσης στο αντίστοιχο αποθετήριο του μαθήματος.
@@ -98,6 +99,7 @@
 | create a cv | build your cv with latex in pdf format, upload it, and track it with git lfs | `latex` `git lfs` |
 | visualize a large text file with a word cloud | use a book from project gutenberg or from the daily news and mask the word cloud with an image that fits the theme of the book | [word_cloud](http://amueller.github.io/word_cloud/auto_examples/index.html) [newspaper](https://github.com/codelucas/newspaper) [gutenberg](https://www.gutenberg.org/) |
 | visualize progress or status | improve your favorite python cli app with a progress bar | [tqdm](https://github.com/tqdm/tqdm) |
+| give rainbow power to your cli python program | visualize your code, tables, markdown, and programs | [rich](https://github.com/willmcgugan/rich) |
 
 ## software
 
