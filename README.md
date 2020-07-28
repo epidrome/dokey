@@ -128,7 +128,7 @@
 
 # references
 
-the above references are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal and command-line applications, such as:
+The references in the assignments are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal and command-line applications, such as:
 
 [You Dont Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
@@ -141,6 +141,8 @@ the above references are only indicative and you are strongly encouraged to sear
 [awesome command-line applications](https://github.com/agarrharr/awesome-cli-apps)
 
 [awesome shell](https://github.com/alebcay/awesome-shell)
+
+[awesome bash](https://github.com/awesome-lists/awesome-bash)
 
 [terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 
@@ -157,4 +159,4 @@ the above references are only indicative and you are strongly encouraged to sear
 
 * Passing grade is awarded as soon as you include in your project report a link to a post to asciinema (idle-time<0.5sec) that demonstrates basic usage with default options. 
 * The grade improves for each extra configuration (read the man page!) added and becomes excellent as soon as you find a similar tool or for significantly novel uses (e.g., [pipelining](https://youtu.be/tc4ROCJYbm0?t=296), shell scripting).
-* [Ncurses](https://en.wikipedia.org/wiki/Ncurses) is an interesting tool but it is not purely command line, so you might employ it at your own risk.
+* [Ncurses](https://en.wikipedia.org/wiki/Ncurses) is an interesting terminal tool but it is not purely command line, so you might employ it at your own risk.
