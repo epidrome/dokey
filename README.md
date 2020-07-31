@@ -89,6 +89,7 @@
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
 | read an ebook | read, search, bookmark, and annotate your favorite ebook | [epr](https://github.com/wustho/epr) |
 | manage torrent files | search and download a torrent | [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
+| generate plots | create plots for your data from some other course or project | [plot](https://github.com/asmuth/clip) |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
