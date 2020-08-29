@@ -27,7 +27,8 @@
 * [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 * [command line](https://en.wikipedia.org/wiki/Command-line_interface)
 * [python](https://docs.python-guide.org/starting/installation/)
-* [asciinema](https://asciinema.org/) to record and share your sessions as described in the deliverables
+* [asciinema](https://asciinema.org/) to record and share your terminal sessions as described in the deliverables
+* [giph](https://github.com/phisch/giph) to record your desktop sessions
 
 # assignments and deliverables
 
