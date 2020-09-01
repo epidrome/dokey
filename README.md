@@ -96,7 +96,7 @@
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
-| create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) |
+| create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) [present](https://github.com/vinayak-mehta/present) |
 | format your report | use text formating tools to layout your final report | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
 | create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
 | analyse web log files | create reports similar to google analytics | [goaccess](https://github.com/allinurl/goaccess) |
