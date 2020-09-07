@@ -57,7 +57,7 @@
 | read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
 | use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
 | back-up your home online | | `rsync` [rclone](https://github.com/rclone/rclone) |
-| create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) |
+| create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) [tclssg](https://github.com/tclssg/tclssg) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` |
 | connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine | `ssh` [mosh](https://github.com/mobile-shell/mosh)|
 | send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
