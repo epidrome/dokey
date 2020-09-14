@@ -53,6 +53,7 @@
 | search the web from the terminal |create aliases for common searches such as dictionary definition | [googler](https://github.com/jarun/googler) [ddgr](https://github.com/jarun/ddgr) |
 | twitter | display your personal stream and that of your favorite person | [twitter](https://github.com/orakaro/rainbowstream) |
 | browse popular web sites through the terminal | configure the browser environment to you terminal browser | [hacker news](https://github.com/donnemartin/haxor-news) [reddit](https://github.com/michael-lazar/rtv) `BROWSER` [awesome-finder](https://github.com/mingrammer/awesome-finder) |
+| transfer files to your phone | send an image file to your phone | [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) |
 | upload and share files || [transfer](https://github.com/dutchcoders/transfer.sh/) [firefox send](https://github.com/timvisee/ffsend) |
 | read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
 | use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
