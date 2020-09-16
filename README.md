@@ -7,10 +7,10 @@
 * [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 * [command line](https://en.wikipedia.org/wiki/Command-line_interface)
 * [python](https://docs.python-guide.org/starting/installation/)
-* [asciinema](https://asciinema.org/) to record and share your terminal sessions as described in the deliverables
+* [asciinema](https://asciinema.org/) to record and share your terminal sessions
 * [giph](https://github.com/phisch/giph) to record your desktop sessions
 
-# assignments and deliverables
+# topics
 
 - [hci](#hci): user land
 - [cscw](#cscw): collaborate with users and devices
@@ -112,6 +112,15 @@
 | create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
 | create a minimal linux system for a particular purpose | gif of a VM with your custom (init, libc) linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) [kiss linux](https://k1ss.org) [init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems) [libc](http://www.etalabs.net/compare_libcs.html) |
+
+
+# tutorials
+
+The assignments assume some basic knowledge and skills, which can be acquired promptly through the following tutorials:
+
+- [shell](http://swcarpentry.github.io/shell-novice/)
+- [git](http://swcarpentry.github.io/git-novice/)
+- [python](https://swcarpentry.github.io/python-novice-inflammation/)
 
 # references
 
