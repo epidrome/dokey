@@ -22,7 +22,7 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | [cheat](https://github.com/cheat/cheat) [tldr](https://tldr.sh/) `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [lf](https://github.com/gokcehan/lf) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
@@ -113,6 +113,13 @@
 | create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
 | create a minimal linux system for a particular purpose | gif of a VM with your custom (init, libc) linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) [kiss linux](https://k1ss.org) [init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems) [libc](http://www.etalabs.net/compare_libcs.html) |
 
+# manuals
+
+The majority of cli tools include either a `man` page, or a short help (`-h`) screen. The following tools provide common examples about common tools:
+
+- [cheat](https://github.com/cheat/cheat)
+- [tldr](https://tldr.sh/)
+- [navi](https://github.com/denisidoro/navi)
 
 # tutorials
 
