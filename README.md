@@ -98,7 +98,7 @@
 | set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
 | try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
 | configure a custom window manager | try different wm and configure one to fit your needs| [sowm](https://github.com/dylanaraps/sowm) [dwm](https://dwm.suckless.org/) |
-| use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) |
+| use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just)|
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
@@ -107,7 +107,7 @@
 | set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
-| choose your stack | set-up a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [howdoi](https://github.com/gleitz/howdoi) |
+| choose your stack | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
 | create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
@@ -120,6 +120,7 @@ The majority of cli tools include either a `man` page, or a short help (`-h`) sc
 - [cheat](https://github.com/cheat/cheat)
 - [tldr](https://tldr.sh/)
 - [navi](https://github.com/denisidoro/navi)
+- [howdoi](https://github.com/gleitz/howdoi)
 
 # tutorials
 
