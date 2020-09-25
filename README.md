@@ -14,7 +14,7 @@
 
 - [hci](#hci): user land
 - [cscw](#cscw): collaborate with users and devices
-- [multimedia](#multimedia): rich content
+- [visualization](#visualization): rich content
 - [software](#software): dev ops
 
 
@@ -22,7 +22,7 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | `ls` `less` `nano` `source` `PS1` [neofetch](https://github.com/dylanaraps/neofetch) |
+| set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | `ls` `less` `nano` `source` `PS1` [github guide](https://dotfiles.github.io) [neofetch](https://github.com/dylanaraps/neofetch) |
 | get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [lf](https://github.com/gokcehan/lf) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
@@ -64,7 +64,7 @@
 | send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
 | pair programming | edit a text file together with a friend | [tmate](https://github.com/tmate-io/tmate) |
 
-## multimedia - information visualization
+## visualization
 
 | assignments | deliverables | references |
 | -- | -- | -- |
