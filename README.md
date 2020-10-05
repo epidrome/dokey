@@ -28,11 +28,22 @@
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
 | organize your notes with emacs | use org mode | `emacs` |
 | organize your notes with a wiki | use vi or emacs org-mode to add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) [viki](https://github.com/tomtom/vikibase_vim) |
+| download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
+| edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
+| read an ebook | read, search, bookmark, and annotate your favorite ebook | [epr](https://github.com/wustho/epr) |
+| manage torrent files | search and download a torrent | [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
+| manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
+| visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
+| create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) [present](https://github.com/vinayak-mehta/present) |
+| format your report | use text formating tools to layout your final report | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
+| create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
+| batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
 | add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) [pywall](https://github.com/dylanaraps/pywal) |
 | build a custom desktop enviroment | customize the wallpaper, menu, bar, notifications, windows, screensaver and demonstrate them with a GIF | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [awesome](https://github.com/awesomeWM/awesome) [pipes](https://github.com/pipeseroni/pipes.sh) [flashfocus](https://github.com/fennerm/flashfocus) |
 | convert between different text formats | use vim (or emacs) to write your cv in markdown, [track multiple formats](https://tex.stackexchange.com/questions/103244/git-latex-and-branches-workflow) with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) `sed` |
+| manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
 | search the local file system | search for your shell configuration file and open it for editing and search for the contents of a text file | [fzf](https://github.com/junegunn/fzf) [skim](https://github.com/lotabout/skim) [percol](https://github.com/mooz/percol) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
@@ -68,22 +79,11 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
-| edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
-| read an ebook | read, search, bookmark, and annotate your favorite ebook | [epr](https://github.com/wustho/epr) |
-| manage torrent files | search and download a torrent | [torque](https://github.com/dylanaraps/torque) [transmission-cli]() |
 | visualize git commits | display your commits from a previous course, eg hci | [git-bars](https://github.com/knadh/git-bars) |
 | generate plots | create plots for your data from some other course or project | [plot](https://github.com/asmuth/clip) |
-| manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
-| visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
-| batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
-| create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) [present](https://github.com/vinayak-mehta/present) |
-| format your report | use text formating tools to layout your final report | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
-| create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
 | analyse web log files | create reports similar to google analytics | [goaccess](https://github.com/allinurl/goaccess) |
 | use color to improve your cli tools | Print colorized text from a shell script, in order to make it more beautiful-usable | [pastel](https://github.com/sharkdp/pastel) |
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
-| manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
 | convert you cli to gui | convert one of the previous python tools to gui | [gooey](https://github.com/chriskiehl/Gooey) |
 | create a cv | build your cv with latex in pdf format, upload it, and track it with git lfs | `latex` `git lfs` |
 | visualize a large text file with a word cloud | use a book from project gutenberg or from the daily news and mask the word cloud with an image that fits the theme of the book | [word_cloud](http://amueller.github.io/word_cloud/auto_examples/index.html) [newspaper](https://github.com/codelucas/newspaper) [gutenberg](https://www.gutenberg.org/) |
