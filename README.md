@@ -38,6 +38,13 @@
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
 | surf the web | create a new elvi | [surfraw](https://gitlab.com/surfraw/Surfraw) |
+| manage and share your dot files | configure git, edit, push and pull your dot files among at least two different machines | [github guide](https://dotfiles.github.io) [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) [yadm](https://github.com/TheLocehiliosan/yadm) |
+| share your calendar | share your calendar | [gcalcli](https://github.com/insanum/gcalcli)|
+| transfer files to your phone | send an image file to your phone | [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) |
+| upload and share files || [transfer](https://github.com/dutchcoders/transfer.sh/) [firefox send](https://github.com/timvisee/ffsend) |
+| read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
+| use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
+| back-up your home online | create a back-up schedule | `cron` `rsync` [rclone](https://github.com/rclone/rclone) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
@@ -67,14 +74,6 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-
-| manage and share your dot files | configure git, edit, push and pull your dot files among at least two different machines | [github guide](https://dotfiles.github.io) [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) [yadm](https://github.com/TheLocehiliosan/yadm) |
-| share your files online and along devices | share your calendar | [gcalcli](https://github.com/insanum/gcalcli)|
-| transfer files to your phone | send an image file to your phone | [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) |
-| upload and share files || [transfer](https://github.com/dutchcoders/transfer.sh/) [firefox send](https://github.com/timvisee/ffsend) |
-| read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
-| use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
-| back-up your home online | | `rsync` [rclone](https://github.com/rclone/rclone) |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) [tclssg](https://github.com/tclssg/tclssg) |
 | read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` [aerc](https://aerc-mail.org/) |
 | connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine | `ssh` [mosh](https://github.com/mobile-shell/mosh)|
