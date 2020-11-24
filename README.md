@@ -7,7 +7,7 @@
 * [terminal emulator](https://en.wikipedia.org/wiki/Terminal_emulator)
 * [command line](https://en.wikipedia.org/wiki/Command-line_interface)
 * [python](https://docs.python-guide.org/starting/installation/)
-* [asciinema](https://asciinema.org/) to record and share your terminal sessions
+* Create an account in [asciinema](https://asciinema.org/) to record and share your terminal sessions
 * [giph](https://github.com/phisch/giph) to record your desktop sessions
 
 # topics
