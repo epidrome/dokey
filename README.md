@@ -23,7 +23,7 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | set-up the main dependencies and demonstrate your base system | change your command prompt with your student ID, list your dot files, display your shell configuration file and display system information (hardware+software) | `ls` `less` `nano` `source` `PS1` [github guide](https://dotfiles.github.io) [neofetch](https://github.com/dylanaraps/neofetch) |
-| get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [ranger](https://ranger.github.io/) [lf](https://github.com/gokcehan/lf) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
+| get familiar with basic commands, reading documentation and editing files | browse and view files on your system | `man` `vim` [pacvim](https://github.com/jmoon018/PacVim) [ranger](https://ranger.github.io/) [lf](https://github.com/gokcehan/lf) [bash guide](https://github.com/Idnan/bash-guide) [error correction](https://github.com/nvbn/thefuck) |
 | connect to wireless network | list available networks and connect to one that requires web login | `nmcli` `curl` `wpa_supplicant` [http-prompt](https://github.com/eliangcs/http-prompt) |
 | become productive with a todo list | create a list of todos, edit, delete, and check some of them | [todo.txt](http://todotxt.org/) [todo.txt-cli](https://github.com/todotxt/todo.txt-cli) [task](https://taskwarrior.org/docs/start.html)|
 | check the weather | fetch the weather forecast for your home city and one more city that you want to travel to | [wttr](https://github.com/chubin/wttr.in) |
