@@ -59,6 +59,7 @@
 | use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
+| try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 
 
 ## hci
@@ -110,7 +111,6 @@
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
 | create your own static site and blog generator | the generator should consider posts, pages, and templates | [bashblog](https://github.com/cfenollosa/bashblog) [jenny](https://github.com/hmngwy/jenny) [bashyll](https://github.com/faithanalog/bashyll) [kiss linux blog](https://github.com/kisslinux/website) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
-| try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
