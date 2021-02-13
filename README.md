@@ -56,6 +56,9 @@
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
+| use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
+| set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
+| set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 
 
 ## hci
@@ -104,18 +107,15 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
-| use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
-| set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
 | create your own static site and blog generator | the generator should consider posts, pages, and templates | [bashblog](https://github.com/cfenollosa/bashblog) [jenny](https://github.com/hmngwy/jenny) [bashyll](https://github.com/faithanalog/bashyll) [kiss linux blog](https://github.com/kisslinux/website) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
 | try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
-| set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
-| choose your stack | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
 | create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
+| test an alternative stack of tools | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) `jails` |
 | create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
 | create a minimal linux system for a particular purpose | gif of a VM with your custom (init, libc) linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) [kiss linux](https://k1ss.org) [init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems) [libc](http://www.etalabs.net/compare_libcs.html) |
 
