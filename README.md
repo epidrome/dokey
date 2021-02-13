@@ -55,6 +55,8 @@
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) [present](https://github.com/vinayak-mehta/present) |
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
+| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
+
 
 ## hci
 
@@ -66,7 +68,8 @@
 | format your report | use text formating tools to layout your final report | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
 | create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
 | add a status bar to your shell/editor and configure a color-theme | edit the configuration files for your status line and for your color theme | [status bar](https://github.com/powerline/powerline) [solarized](https://github.com/altercation/solarized) [redshift](https://github.com/jonls/redshift) [pywall](https://github.com/dylanaraps/pywal) |
-| build a custom desktop enviroment | customize the wallpaper, menu, bar, notifications, windows, screensaver and demonstrate them with a GIF | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [awesome](https://github.com/awesomeWM/awesome) [pipes](https://github.com/pipeseroni/pipes.sh) [flashfocus](https://github.com/fennerm/flashfocus) |
+| configure a custom desktop enviroment | customize the wallpaper, menu, bar, notifications, windows, screensaver and demonstrate them with a GIF | [polybar](https://github.com/polybar/polybar) [rofi](https://github.com/davatorium/rofi) [dunst](https://github.com/dunst-project/dunst) [awesome](https://github.com/awesomeWM/awesome) [pipes](https://github.com/pipeseroni/pipes.sh) [flashfocus](https://github.com/fennerm/flashfocus) |
+| configure a custom window manager | try different wm and configure one to fit your needs| [sowm](https://github.com/dylanaraps/sowm) [dwm](https://dwm.suckless.org/) |
 | convert between different text formats | use vim (or emacs) to write your cv in markdown, [track multiple formats](https://tex.stackexchange.com/questions/103244/git-latex-and-branches-workflow) with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) `sed` |
 
 
@@ -101,8 +104,6 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
-| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
-| configure a custom window manager | try different wm and configure one to fit your needs| [sowm](https://github.com/dylanaraps/sowm) [dwm](https://dwm.suckless.org/) |
 | use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
