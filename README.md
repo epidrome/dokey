@@ -156,6 +156,8 @@ The references in the assignments are only indicative and you are strongly encou
 
 [terminals are sexy](https://github.com/k4m4/terminals-are-sexy)
 
+[emacs is sexy](https://emacs.sexy)
+
 [graphical user interfaces are good for 2 years old](https://www.youtube.com/watch?v=SdL6dzWvm5M)
 
 [cool unix tools](https://kkovacs.eu/cool-but-obscure-unix-tools)
