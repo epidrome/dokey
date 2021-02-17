@@ -38,13 +38,8 @@
 | edit a spreadsheet | edit values and formulas | [sc-im](https://github.com/andmarti1424/sc-im) |
 | try a different shell | change your default shell to zsh and configure it with auto-completions-suggestions and repeat some of the above | `chsh` [oh-my-zsh](https://github.com/robbyrussell/oh-my-zsh) [zsh-completions](https://github.com/zsh-users/zsh-completions) [zsh-syntax-highlighting](https://github.com/zsh-users/zsh-syntax-highlighting) |
 | surf the web | create a new elvi | [surfraw](https://gitlab.com/surfraw/Surfraw) |
-| manage and share your dot files | configure git, edit, push and pull your dot files among at least two different machines | [github guide](https://dotfiles.github.io) [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) [yadm](https://github.com/TheLocehiliosan/yadm) |
 | share your calendar | share your calendar | [gcalcli](https://github.com/insanum/gcalcli)|
-| transfer files to your phone | send an image file to your phone | [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) |
-| upload and share files || [transfer](https://github.com/dutchcoders/transfer.sh/) [firefox send](https://github.com/timvisee/ffsend) |
 | read the news with an RSS reader || [newsboat](https://github.com/newsboat/newsboat) |
-| use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
-| back-up your home online | create a back-up schedule | `cron` `rsync` [rclone](https://github.com/rclone/rclone) |
 | batch image conversion | convert your image files to different sizes and formats | `ImageMagick` `ufraw`|
 | track your expenses | add a source of income and some expenses | [ledger](https://github.com/ledger/ledger) |
 | track your time with a simple journal || [jrnl](https://github.com/jrnl-org/jrnl) |
@@ -58,7 +53,6 @@
 | try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
 | use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
-| set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 | try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 
 
@@ -82,10 +76,16 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | create a simple website with a static generator | single page with name-AM-github and links to your asciinema deliverables | [jekyll](https://github.com/jekyll/jekyll) [hakyll](https://github.com/jaspervdj/hakyll) [nikola](https://github.com/getnikola/nikola) [tclssg](https://github.com/tclssg/tclssg) |
-| read, write, and send email | configure mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` [aerc](https://aerc-mail.org/) |
+| read, write, and send email | configure connections to mail server, display greek characters, display rich content, open links in text-based browser, store attachments, compose email with vim | [mutt](http://www.mutt.org/) `EDITOR` `URLVIEW` [aerc](https://aerc-mail.org/) |
 | connect to a remote machine with ssh | configure a remote machine to do all the previous tasks and connect to it through a simple local machine | `ssh` [mosh](https://github.com/mobile-shell/mosh)|
 | send rich email with emacs | filter and send emails with links | [emacs](https://www.gnu.org/software/emacs/) [reading-and-writing-email-with-emacs](https://emacs.stackexchange.com/questions/12927/reading-and-writing-email-with-emacs) |
 | pair programming | edit a text file together with a friend | [tmate](https://github.com/tmate-io/tmate) |
+| manage and share your dot files | configure git, edit, push and pull your dot files among at least two different machines | [github guide](https://dotfiles.github.io) [rcm](https://github.com/thoughtbot/rcm) [dotfiles](https://github.com/jbernard/dotfiles) [stow](https://github.com/xero/dotfiles) [yadm](https://github.com/TheLocehiliosan/yadm) |
+| transfer files to your phone | send an image file to your phone | [qr-filetransfer](https://github.com/sdushantha/qr-filetransfer) |
+| upload and share files || [transfer](https://github.com/dutchcoders/transfer.sh/) [firefox send](https://github.com/timvisee/ffsend) |
+| use irc to chat with your friends | create a room, invite friends, and chat| [weechat](https://weechat.org/) |
+| back-up your home online | create a back-up schedule | `cron` `rsync` [rclone](https://github.com/rclone/rclone) |
+| set-up cloud services | ssh to a remote machine and demonstrate your remote cli user land (e.g., email, editor, cv, code, etc) | [OpenSSH](https://www.openssh.com) [Cloud Stack](https://en.wikipedia.org/wiki/Apache_CloudStack) |
 
 ## visualization
 
