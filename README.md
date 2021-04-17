@@ -46,6 +46,7 @@
 | search the local file system | search for your shell configuration file and open it for editing and search for the contents of a text file | [fzf](https://github.com/junegunn/fzf) [skim](https://github.com/lotabout/skim) [percol](https://github.com/mooz/percol) |
 | manage your music library | import your music library, add tags and delete/add songs | [beets](https://github.com/beetbox/beets) |
 | visualize an mp3 | demonstrate album art and visualizations with an mp3 player and various songs | [mpd](https://github.com/MusicPlayerDaemon/MPD) [kunst](https://github.com/sdushantha/kunst) |
+| visualize shell scripts | create your own top alternatives with a focus to your own workflows | [sampler](https://github.com/sqshq/sampler) |
 | organize your notes | add (edit and delete) and link several pages| [org-wiki](https://github.com/caiorss/org-wiki) [viki](https://github.com/tomtom/vikibase_vim) [nb](https://github.com/xwmx/nb) |
 | create your final presentation | three slides with your name-AM-github, checkbox list of deliverables done, and highlights of significant contributions and/or roadblocks  | [mdp](https://github.com/visit1985/mdp) [patat](https://github.com/jaspervdj/patat) [present](https://github.com/vinayak-mehta/present) |
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
