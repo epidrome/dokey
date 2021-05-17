@@ -52,7 +52,7 @@
 | manage your academic bibliography | import your bibtex formated bibliography, add, edit, delete an entry | [pubs](https://github.com/pubs/pubs) [papis](https://github.com/papis/papis) |
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
-
+| set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
 
 ## hci
 
@@ -108,7 +108,6 @@
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
 | create your own static site and blog generator | the generator should consider posts, pages, and templates | [bashblog](https://github.com/cfenollosa/bashblog) [jenny](https://github.com/hmngwy/jenny) [bashyll](https://github.com/faithanalog/bashyll) [kiss linux blog](https://github.com/kisslinux/website) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
