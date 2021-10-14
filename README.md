@@ -137,7 +137,7 @@ The assignments assume some basic knowledge and skills, which can be acquired pr
 
 # references
 
-The references in the assignments are only indicative and you are strongly encouraged to search for and evaluate alternatives. There are several resources that provide information about terminal and command-line applications, such as:
+The references in the assignments are only indicative and **you are strongly encouraged to search for and evaluate alternatives**. There are several resources that provide information about terminal and command-line applications, such as:
 
 [You Dont Need GUI](https://github.com/you-dont-need/You-Dont-Need-GUI)
 
@@ -164,4 +164,6 @@ The references in the assignments are only indicative and you are strongly encou
 [unix toolbox](http://cb.vu/unixtoolbox.xhtml)
 
 [Coderwall](https://coderwall.com/t/command-line/popular)
+
+[cli guidelines](https://clig.dev)
 
