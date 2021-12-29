@@ -164,3 +164,5 @@ The references in the assignments are only indicative and **you are strongly enc
 
 [cli guidelines](https://clig.dev)
 
+[linux command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+
