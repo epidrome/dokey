@@ -52,21 +52,20 @@
 | set-up a system for python development| install and configure *in a user folder* a python project that is not available through the package manager| [python virtual environments](https://docs.python-guide.org/dev/virtualenvs/) |
 | try different operating systems in the emulator | load at least two operating systems without a GUI (only CLI) and create a virtual local network | [qemu](https://www.qemu.org/) `freebsd` `archlinux` `alpine` |
 | set-up continuous integration | build and deploy your static site and your cv dynamically every time you make a small change in the source files | `github` `travis` `netlify` |
+| download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
+| organize your notes with emacs | use org mode | `emacs` |
+| text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file and your report | [vim](https://www.vim.org/) |
+| organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
+| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
 
 ## hci
 
 | assignments | deliverables | references |
 | -- | -- | -- |
-| download mp3 | search, download and play (with the terminal) your favorite song of the month from youtube | [youtube-dl](https://github.com/ytdl-org/youtube-dl) [mpv](https://github.com/mpv-player/mpv) |
-| text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file | [vim](https://www.vim.org/) |
-| organize your notes with emacs | use org mode | `emacs` |
-| format your report | use text formating tools to layout your final report | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
+| format your report | use text formating tools to layout your final report for different output | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
 | create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
 | convert between different text formats | use vim (or emacs) to write your cv in markdown, [track multiple formats](https://tex.stackexchange.com/questions/103244/git-latex-and-branches-workflow) with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) `sed` |
-| organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
-| try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
 | use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
-
 
 ## cscw
 
