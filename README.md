@@ -166,3 +166,5 @@ The references in the assignments are only indicative and **you are strongly enc
 [linux command line basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
 
 [unix as ide](https://blog.sanctum.geek.nz/series/unix-as-ide/)
+
+[unix for poets](http://doc.cat-v.org/unix/for-poets/kwc-unix-for-poets.pdf)
