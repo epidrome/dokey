@@ -57,6 +57,8 @@
 | text editor and plug-ins for code highlighting and autocompletion | edit the vim or the shell configuration file and your report | [vim](https://www.vim.org/) |
 | organise the terminal window into multiple areas | use one window to search-edit local files or browse the web and another window for performance monitoring  | [tmux](https://en.wikipedia.org/wiki/Tmux), [glances](https://github.com/nicolargo/glances) |
 | try different terminals and shells | repeat some of the previous exercises with a different terminal-shell and create a custom configuration that fits your needs | [st](https://github.com/LukeSmithxyz/st) [mosh](https://github.com/mobile-shell/mosh) `zsh` `fish` |
+| create a minimal linux system for a particular purpose | gif of a VM with your custom (init, libc) linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) [kiss linux](https://k1ss.org) [init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems) [libc](http://www.etalabs.net/compare_libcs.html) |
+| create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 
 ## hci
 
@@ -109,10 +111,8 @@
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
-| create a docker image for your development stack | demonstrate the custom image for CI of your cv and site | [dry](https://github.com/moncho/dry) [dockly](https://github.com/lirantal/dockly) [alpine](https://hub.docker.com/_/alpine) |
 | test an alternative stack of tools | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) `jails` |
 | create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
-| create a minimal linux system for a particular purpose | gif of a VM with your custom (init, libc) linux system should boot to a terminal and include a set of tools that you really need (e.g., secure, minimal, aesthetics, libraries, etc) | [LFS](http://www.linuxfromscratch.org/) [suckless](https://suckless.org/) [kiss linux](https://k1ss.org) [init systems](https://wiki.gentoo.org/wiki/Comparison_of_init_systems) [libc](http://www.etalabs.net/compare_libcs.html) |
 
 # manuals
 
