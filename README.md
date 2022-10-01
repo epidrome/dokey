@@ -66,8 +66,8 @@
 | -- | -- | -- |
 | format your report | use text formating tools to layout your final report for different output | [groff](https://www.gnu.org/software/groff/manual/html_node/index.html) |
 | create your own static site and blog generator with pandoc | the generator should consider posts, pages, and templates | [bashyll](https://github.com/faithanalog/bashyll) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
-| convert between different text formats | use vim (or emacs) to write your cv in markdown, [track multiple formats](https://tex.stackexchange.com/questions/103244/git-latex-and-branches-workflow) with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) `sed` |
-| use the terminal as an IDE | edit your files (e.g., cv, website, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
+| convert between different text formats | use vim (or emacs) to write your report in markdown, [track multiple formats](https://tex.stackexchange.com/questions/103244/git-latex-and-branches-workflow) with git and convert it to docx, html with pandoc | [pandoc](https://pandoc.org/) [git](https://en.wikipedia.org/wiki/Git) `sed` |
+| use the terminal as an IDE | edit your files (e.g., report, blog, code, etc) in vim or emacs and compile it in a different panel or use a plug-in | [latex](https://www.latex-project.org/) [vimtex](https://github.com/lervag/vimtex) [spacevim](https://spacevim.org/) [doom-emacs](https://github.com/hlissner/doom-emacs) [make](https://www.gnu.org/software/make/) [just](https://github.com/casey/just) [tmex](https://github.com/evnp/tmex) |
 
 ## cscw
 
