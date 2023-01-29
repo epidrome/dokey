@@ -100,6 +100,8 @@
 | visualize progress or status | improve your favorite python cli app with a progress bar | [tqdm](https://github.com/tqdm/tqdm) |
 | give rainbow power to your cli python program | visualize your code, tables, markdown, and programs | [rich](https://github.com/willmcgugan/rich) |
 | add icons to your terminal workflow | | [icons-in-terminal](https://github.com/sebastiencs/icons-in-terminal) [awesome terminal fonts](https://github.com/gabrielelana/awesome-terminal-fonts) |
+| test an alternative stack of tools | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) `jails` |
+| create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
 
 ## software
 
@@ -111,8 +113,7 @@
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
-| test an alternative stack of tools | set-up an OS image with a set of cli tools with minimal dependencies and a software licence that allows commercial use and selling | [freebsd](https://www.freebsd.org) `jails` |
-| create a cli app for your favorite site | the application should be similar to rtv, haxor from hci | [click](https://github.com/pallets/click) |
+
 
 # manuals
 
