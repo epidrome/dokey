@@ -109,7 +109,7 @@
 | -- | -- | -- |
 | send notifications to your desktop-mobile | send a notifcation when a big task completes, eg download, compiling, etc | [ntfy](https://github.com/dschep/ntfy) |
 | create notifications on your sever | send notifications on important server events | [mqttwarn](https://github.com/jpmens/mqttwarn) |
-| create your own static site and blog generator | the generator should consider posts, pages, and templates | [bashblog](https://github.com/cfenollosa/bashblog) [jenny](https://github.com/hmngwy/jenny) [bashyll](https://github.com/faithanalog/bashyll) [kiss linux blog](https://github.com/kisslinux/website) [pandoc+makefile](https://tylercipriani.com/blog/2014/05/13/replace-jekyll-with-pandoc-makefile/) |
+| create your own static site and blog generator | the generator should consider posts, pages, and templates and have minimal dependencies, ie no pandoc | [bashblog](https://github.com/cfenollosa/bashblog) [jenny](https://github.com/hmngwy/jenny) [bashyll](https://github.com/faithanalog/bashyll) [kiss linux blog](https://github.com/kisslinux/website) |
 | create an agent for news | the demo should display the new content added on a news web site | [huginn](https://github.com/huginn/huginn) |
 | programmable voice | deploy an application that forwards a call depending on a white- and black- list of phone numbers | [twilio-python](https://github.com/twilio/twilio-python) |
 | performance monitoring | monitor the performance of your python scripts and visualize them with colors and/or spark lines | [py-spy](https://github.com/benfred/py-spy) [hyperfine](https://github.com/sharkdp/hyperfine) |
