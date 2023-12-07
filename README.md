@@ -90,7 +90,7 @@
 | assignments | deliverables | references |
 | -- | -- | -- |
 | visualize git commits | display your commits from a previous course, eg hci | [git-bars](https://github.com/knadh/git-bars) |
-| generate plots | create plots for your data from some other course or project | [plot](https://github.com/asmuth/clip) |
+| generate plots | create plots for your data from some other course or project | [clip](https://github.com/asmuth/clip) |
 | analyse web log files | create reports similar to google analytics | [goaccess](https://github.com/allinurl/goaccess) |
 | use color to improve your cli tools | Print colorized text from a shell script, in order to make it more beautiful-usable | [pastel](https://github.com/sharkdp/pastel) |
 | visualize your data | demo with your git commits history and percipation data per day for the last month from your city | [spark](https://github.com/holman/spark) |
