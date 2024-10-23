@@ -123,6 +123,7 @@ The majority of cli tools include either a `man` page, or a short help (`-h`) sc
 - [tldr](https://tldr.sh/)
 - [navi](https://github.com/denisidoro/navi)
 - [howdoi](https://github.com/gleitz/howdoi)
+- [natural language cli completion](https://github.com/dspinellis/ai-cli-lib)
 
 # tutorials
 
@@ -131,6 +132,7 @@ The assignments assume some basic knowledge and skills, which can be acquired pr
 - [shell](http://swcarpentry.github.io/shell-novice/)
 - [git](http://swcarpentry.github.io/git-novice/)
 - [python](https://swcarpentry.github.io/python-novice-inflammation/)
+- [unix tools online course](https://www.edx.org/learn/unix/delft-university-of-technology-unix-tools-data-software-and-production-engineering)
 
 # references
 
